@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "pulsesensormain.h": "c",
+        "pulsesensorarduino.h": "c",
+        "stream.h": "c",
+        "pulsesensorplayground.h": "c",
+        "esp_avrc_api.h": "c"
+    }
+}
